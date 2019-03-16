@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">AgeCalculator</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="date_today">Current Date</string>
+    <string name="display_date">display date</string>
+    <string name="birthday_date">Your D.O.B.</string>
+    <string name="calculation_text">calculate Age</string>
+    <string name="clear_results">clear</string>
+    <string name="current_age">Your Current Age</string>
+    <string name="years_number">Year</string>
+    <string name="months_number">Months</string>
+    <string name="days_number">Days</string>
+    <string name="next_birthday">Next Birthday</string>
+    <string name="age_analysis">Age Analysis</string>
+    <string name="total_years">Total Years</string>
+    <string name="zero">0</string>
+    <string name="total_months">Total Months</string>
+    <string name="total_days">Total Days</string>
+    <string name="total_hours">Total Hours</string>
+    <string name="total_minutes">Total Minutes</string>
+    <string name="total_seconds">Total Seconds</string>
+    <string name="total_weeks">Total Weeks</string>
+</resources>
